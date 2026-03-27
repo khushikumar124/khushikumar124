@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Khushi Kumar
 
-<!--
-**khushikumar124/khushikumar124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BTech Computer Science student, studying at VIT Chennai, with a strong interest in building practical, real-world software. I enjoy working on web applications and solving problems through code.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently pursuing BTech in CSE at VIT Chennai
+* Interested in Machine Learning, Web Development and Software Engineering
+* Learning backend development and database integration
+* Building projects to strengthen practical skills
+
+## Tech Stack
+
+* Languages: Python, C++/C, JavaScript, Java
+* Frontend: HTML, CSS, React.js
+* Backend: Node.js (learning)
+* Database: MySQL, Oracle SQL
+
+## Projects
+
+* Smart Electricity Dashboard
+* Student Productivity Portal
+* Task Manager
+* Movie Recommendation Tool
+* Roommate Finder for Hostellers
+
+(Projects are being actively developed and improved)
+
+## What I'm Working On
+
+* Improving full-stack development skills
+* Getting better at solving problems through code
+* Learning APIs and backend architecture
+* Writing cleaner and more maintainable code
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/khushikumar68/
+* Mail: khushikumar6819@gmail.com
+
